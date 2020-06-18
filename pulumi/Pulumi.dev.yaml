@@ -1,0 +1,5 @@
+config:
+  azure:location: SouthIndia
+  pulumi-test:password:
+    secure: AAABABF4+lJibsuxvsaOeARwCg+vo0plIl4oml/4Z8VlNF4cMOBYE87Dy1U=
+  pulumi-test:username: vmadmin

@@ -1,0 +1,3 @@
+name: pabc123
+runtime: dotnet
+description: A minimal Azure C# Pulumi program
